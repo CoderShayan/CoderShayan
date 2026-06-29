@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Mohammad Shayan</h1>
+<h1 align="center">Hi 👋, I'm Shayan</h1>
 
 <h3 align="center">Freelance Web Developer from India</h3>
 
@@ -23,19 +23,7 @@ HTML • CSS • JavaScript • React • Tailwind CSS • Python • Git • Gi
 
 ## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR-USERNAME
-- Email: YOUR_EMAIL
-<!--
-**CoderShayan/CoderShayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- LinkedIn: https://linkedin.com/in/mohdshayananwar
+- Email: its.mshayan@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
