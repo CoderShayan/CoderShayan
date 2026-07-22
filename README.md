@@ -11,8 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1600&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=60&lines=Freelance+Web+Developer+from+India" />
 </p>
 
-<h3 align="center">Freelance Web Developer from India</h3>
-
 <p align="center">
 I build modern, responsive, and user-friendly websites.
 </p>
