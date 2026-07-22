@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=60&lines=Hi+I'm+Mohammad+Shayan;Freelance+Web+Developer;React+Developer;UI%2FUX+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1600&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=60&lines=Freelance+Web+Developer+from+India" />
 </p>
 
 <h3 align="center">Freelance Web Developer from India</h3>
@@ -16,7 +16,9 @@
 <p align="center">
 I build modern, responsive, and user-friendly websites.
 </p>
+
 ---
+
 <p align="center">
   <picture>
     <source
@@ -33,29 +35,17 @@ I build modern, responsive, and user-friendly websites.
     />
   </picture>
 </p>
----
-
-## - Portfolio
-
- <h3 align="center">Tap to view: https://m-shayan.vercel.app </h>
 
 ---
 
-## - Connect
-
-- LinkedIn: https://linkedin.com/in/mohdshayananwar
-- Email: its.mshayan@gmail.com
-
----
-
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=CoderShayan&label=Profile%20Visit&color=000000&style=for-the-badge" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge)](https://m-shayan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdshayananwar)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.mshayan@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=CoderShayan&label=PROFILE+VIEWS&color=000000&style=for-the-badge)
 
 ---
 
-<pre>
+<pre align="center">
 • Familiar with 
 ----------------------------------
 | OS:............Windows & Linux |
