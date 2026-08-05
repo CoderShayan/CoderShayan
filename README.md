@@ -1,7 +1,5 @@
 <h2 align="center"> Welcome to my GitHub. </h2>
 
-
-<h1 align="center">I'm Shayan</h1>
 <p align="center">
   <img src="./assets/shayan.svg" width="100%" alt="Header">
 </p>
