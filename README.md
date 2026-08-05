@@ -2,9 +2,8 @@
 
 
 <h1 align="center">I'm Shayan</h1>
-
 <p align="center">
-  <img src="./shayan-clean.png" alt="Mohd Shayan" width="250">
+  <img src="Github.png" width="100%" alt="Shayan">
 </p>
 
 <p align="center">
