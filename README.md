@@ -3,7 +3,7 @@
 
 <h1 align="center">I'm Shayan</h1>
 <p align="center">
-  <img src="Github.png" width="100%" alt="Shayan">
+  <img src="Github(1).png" width="100%" alt="Shayan">
 </p>
 
 <p align="center">
