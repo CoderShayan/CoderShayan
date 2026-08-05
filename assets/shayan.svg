@@ -1,0 +1,144 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="line" x1="0" y1="0" x2="1200" y2="0">
+<stop offset="0%" stop-color="#ffffff00"/>
+<stop offset="50%" stop-color="#ffffff"/>
+<stop offset="100%" stop-color="#ffffff00"/>
+</linearGradient>
+
+<style>
+
+.title{
+font-family:JetBrains Mono,monospace;
+font-size:60px;
+font-weight:700;
+fill:#fff;
+letter-spacing:4px;
+opacity:0;
+animation:fade 1.8s ease forwards;
+}
+
+.subtitle{
+font-family:JetBrains Mono,monospace;
+font-size:18px;
+fill:#9ca3af;
+opacity:0;
+animation:fade 2.4s ease forwards;
+}
+
+.cursor{
+animation:blink .8s infinite;
+}
+
+.line{
+animation:slide 4s linear infinite;
+}
+
+.particle{
+animation:float 5s ease-in-out infinite;
+}
+
+.border{
+animation:borderGlow 3s infinite;
+}
+
+@keyframes fade{
+from{opacity:0;transform:translateY(10px);}
+to{opacity:1;transform:translateY(0);}
+}
+
+@keyframes blink{
+50%{opacity:0;}
+}
+
+@keyframes slide{
+0%{transform:translateX(-1200px);}
+100%{transform:translateX(1200px);}
+}
+
+@keyframes float{
+50%{transform:translateY(-12px);}
+}
+
+@keyframes borderGlow{
+50%{opacity:.35;}
+}
+
+</style>
+
+</defs>
+
+<rect
+x="4"
+y="4"
+rx="22"
+width="1192"
+height="252"
+fill="#000000"
+stroke="white"
+stroke-width="2"
+class="border"/>
+
+<!-- Floating Particles -->
+
+<circle cx="120" cy="70" r="3" fill="white" class="particle"/>
+<circle cx="250" cy="180" r="2" fill="white" class="particle" style="animation-delay:.5s"/>
+<circle cx="460" cy="50" r="2" fill="white" class="particle" style="animation-delay:1s"/>
+<circle cx="680" cy="210" r="3" fill="white" class="particle" style="animation-delay:1.5s"/>
+<circle cx="930" cy="70" r="2" fill="white" class="particle" style="animation-delay:2s"/>
+<circle cx="1080" cy="170" r="3" fill="white" class="particle" style="animation-delay:2.5s"/>
+
+<!-- Name -->
+
+<text
+x="600"
+y="120"
+text-anchor="middle"
+class="title">
+
+Hey..! I'm Shayan<tspan class="cursor">|</tspan>
+
+</text>
+
+<!-- Subtitle -->
+
+<text
+x="600"
+y="160"
+text-anchor="middle"
+class="subtitle">
+
+Freelance Web Developer • UI/UX Enthusiast
+
+</text>
+
+<!-- Moving underline -->
+
+<g class="line">
+<rect
+x="430"
+y="185"
+width="340"
+height="2"
+fill="url(#line)"/>
+</g>
+
+<!-- Top Wave -->
+
+<path
+d="M0 20 Q100 0 200 20 T400 20 T600 20 T800 20 T1000 20 T1200 20"
+stroke="white"
+stroke-opacity=".18"
+fill="none"/>
+
+<!-- Bottom Wave -->
+
+<path
+d="M0 240 Q100 220 200 240 T400 240 T600 240 T800 240 T1000 240 T1200 240"
+stroke="white"
+stroke-opacity=".18"
+fill="none"/>
+
+</svg>
