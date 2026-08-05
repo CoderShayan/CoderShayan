@@ -1,0 +1,9 @@
+<text x="300" y="80" fill="white">
+  Hey..! I'm Shayan
+  <animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="2s"
+    fill="freeze"/>
+</text>
